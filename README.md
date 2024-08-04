@@ -1,13 +1,13 @@
 
 Here is a reference for commonly used Maven commands:
 
-#Basic Commands
+**#Basic Commands**
 #Compile the project:
       
 mvn compile
 
 
-#Package the project:
+**#Package the project:**
       
 mvn package
 
